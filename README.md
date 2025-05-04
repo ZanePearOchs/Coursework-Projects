@@ -1,6 +1,6 @@
 This project was completed for CSCI 350: Databases and Structures.
 My partner and I were given creative freedom to wrangle a dataset of our choosing, and analyze it using a supervised machine learning model.
-We sought to uncover patterns, build random forest predictive models about player rating, and draw meaningful conclusions based on a variety of player attributes.
+We sought to uncover patterns, build linear regression and predictive random forest models about player rating, and draw meaningful conclusions based on a variety of player attributes.
 
 This [Jupyter Notebook](FifaOveralls.ipynb) contains our brief analysis, model building using decision trees, and evaluation.
 
