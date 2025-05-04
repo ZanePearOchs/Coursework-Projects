@@ -4,7 +4,7 @@ We sought to uncover patterns, build linear regression and predictive random for
 
 This [Jupyter Notebook](FifaOveralls.ipynb) contains our brief analysis, model building using decision trees, and evaluation.
 
-Project "MJ Win Factor" The next project was completed during the same course.
+Project "MJ Win Factor" was completed during the same course.
 Using machine learning techniques and confusion matrix analysis, we explored various thresholds of points scored by Michael Jordan to predict the likelihood of a Chicago Bulls win, identifying key patterns in his performance that influence his team's success.
 
 This [Jupyter Notebook](MJWinFactor.ipynb) contains our brief analysis, model building using a confusion matrix, and evaluation.
